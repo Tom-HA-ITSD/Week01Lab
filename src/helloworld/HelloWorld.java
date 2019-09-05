@@ -10,7 +10,8 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String message = "Hello World, and all who inhabit it!";
+        System.out.print(message);
     }
     
 }
